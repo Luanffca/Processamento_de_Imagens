@@ -1,0 +1,7 @@
+Para fazer notebook e não slide.
+
+
+Descritor de Região 
+- Binariza
+- Rotular todos os componentes conexo - Skimage = label
+- Criar imagem com cada componente conexto com cada componente conexo
